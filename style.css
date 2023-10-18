@@ -1,0 +1,36 @@
+
+
+body {
+    background-image: url(https://img.freepik.com/premium-photo/old-clock-with-beautiful-sunset-background_218381-18065.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: 25vh
+}
+
+h1 {
+    color: rgb(238, 223, 221);
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    font-size: 7vh;
+    padding: 10px;
+    
+
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 5vh;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: inset;
+    border-color: rgb(48, 40, 31);
+
+
+
+
+}
